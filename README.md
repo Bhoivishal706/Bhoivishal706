@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhoivishal706
+- 👋 Hi, I’m Vishal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
